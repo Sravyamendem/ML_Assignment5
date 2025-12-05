@@ -16,7 +16,7 @@ Key Steps Implemented:
 Apply softmax to obtain normalized attention weights.
 Compute the context vector as a weighted sum of value vectors.
 
-Implement Simple Transformer Encoder Block (PyTorch):
+2) Implement Simple Transformer Encoder Block (PyTorch):
 File: Implement Simple Transformer Encoder Block (PyTorch).py
 
 Description:
